@@ -1,0 +1,6 @@
+#pic{border: 2px solid red; position: absolute; top: 100px; left: 155px; transition: all .5s;}
+#pic2{border: 2px solid red; position: absolute; top: 100px; left:-555px; transition: all .5s; z-index: -1;}
+/*#pic2{border: 2px solid purple; position: absolute; top: 100px; left: -100px; transition: all .5s;}*/
+#num{margin-top: 700px; text-align: center;}
+#btn_prev{margin-left: 400px;}
+#btn_next{margin-left: 900px;}
